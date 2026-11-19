@@ -75,6 +75,7 @@
 - [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)：OpenAI’s staff tell you how to give clear and effective instructions to GPT.
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - This is a collection of prompt examples to be used with the ChatGPT model.
 - [TopFreePrompts](https://topfreeprompts.com/) - A free library of curated prompts for ChatGPT, Claude, Gemini and Midjourney, organized by tool, category and use case.
+- [PromptingStudioAI](https://promptingstudioai.com/) - AI prompt generator and optimizer that builds model-specific structured prompts for ChatGPT, Claude and Gemini, plus image and video models like Midjourney.
 - [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - This is a collection of Chinese prompt examples.
 - [ChatGPT Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - A quick reference table of ChatGPT shortcuts is divided by domain and function, allowing users to filter by tags, search by keywords, and copy with a single click to utilize prompts.Even beginners can simply copy the prompt phrases, make minor modifications, and send them to ChatGPT to obtain the desired output.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guides, papers, lecture, and resources for prompt engineering.
